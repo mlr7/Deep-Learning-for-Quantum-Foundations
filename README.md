@@ -1,7 +1,7 @@
 # Deep-Learning-for-Quantum-Foundations
 Deep neural networks for many body quantum many body systems, quantum gravity and quantum foundations.
 
-##Quantum Many Body Systems and Deep Learning
+## Quantum Many Body Systems and Deep Learning
 
 **Carleo, Giuseppe**, and Matthias Troyer. "Solving the quantum many-body problem with artificial neural networks." Science 355, no. 6325 (2017): 602-606.
 https://www.science.org/doi/full/10.1126/science.aag2302
@@ -61,7 +61,7 @@ DFT gives scientists a powerful shortcut for predicting where electrons will go 
 
 #### Create: Deep Neural Networks for Many Body Quantum Systems
 
-#####Deep neural networks for many body electronic wavefunctions.
+##### Deep neural networks for many body electronic wavefunctions.
 
 Logic: 
 
@@ -103,7 +103,7 @@ Buckareff, Andrei A. Pantheism. Cambridge University Press, 2022.
 SABINE HOSSENFELDER, Maybe the Universe Thinks. Hear Me Out, TIME, AUGUST 25, 2022
 https://time.com/6208174/maybe-the-universe-thinks/
 
-##Spacetime from Quantum Wavefunction
+## Spacetime from Quantum Wavefunction
 
 Cao, ChunJun. "Towards a Theory of Quantum Gravity Through Geometrization of Quantum Mechanics." PhD diss., California Institute of Technology, 2018.
 https://thesis.library.caltech.edu/10860/
@@ -117,7 +117,7 @@ https://arxiv.org/abs/1702.06959
 Cao, ChunJun, and Sean M. Carroll. "Bulk entanglement gravity without a boundary: Towards finding Einstein’s equation in Hilbert space." Physical Review D 97, no. 8 (2018): 086003.
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.086003
 
-##Deep Learning and ADS/CFT Holography Quantum Gravity
+## Deep Learning and ADS/CFT Holography Quantum Gravity
 
 Gan, Wen-Cong, and Fu-Wen Shu. "Holography as deep learning." International Journal of Modern Physics D 26, no. 12 (2017): 1743020.
 https://www.worldscientific.com/doi/abs/10.1142/S0218271817430209
@@ -142,7 +142,7 @@ https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.106017
 Akutagawa, Tetsuya, Koji Hashimoto, and Takayuki Sumimoto. "Deep learning and AdS/QCD." Physical Review D 102, no. 2 (2020): 026020.
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.026020
 
-##Quantum Gravity
+## Quantum Gravity
 
 Loll, R., G. Fabiano, D. Frattulillo, and F. Wagner. "Quantum gravity in 30 questions." arXiv preprint arXiv:2206.06762 (2022).
 https://arxiv.org/abs/2206.06762
@@ -199,8 +199,7 @@ Cramer, John G. "The arrow of electromagnetic time and the generalized absorber 
 
 Davies, Paul Charles William, and Paul Davies. About time: Einstein's unfinished revolution. Simon and Schuster, 1996.
 
---
-Deep Learning and Quantum Foundations
+## Deep Learning and Quantum Foundations
 
 Bharti, Kishor, Tobias Haug, Vlatko Vedral, and Leong-Chuan Kwek. "Machine learning meets quantum foundations: A brief survey." AVS Quantum Science 2, no. 3 (2020).
 https://pubs.aip.org/avs/aqs/article-abstract/2/3/034101/997289/Machine-learning-meets-quantum-foundations-A-brief?redirectedFrom=fulltext
@@ -246,5 +245,3 @@ Wheeler and Feynman**.
 
 Weinstein, S. "Neural Networks as" hidden" variable models for quantum systems. eprint." arXiv preprint arXiv:1807.03910 (2018).
 https://www.semanticscholar.org/paper/Neural-networks-as-%22hidden%22-variable-models-for-Weinstein/8a5a66c890c14a0253e1d257b50c1a959b8c8912
-
-(get the 3 pdf books moved over, Davies Time, Barrow-Tipler, Tipler)
