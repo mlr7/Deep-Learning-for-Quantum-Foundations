@@ -1,6 +1,8 @@
 # Deep-Learning-for-Quantum-Foundations
 Deep neural networks for many body quantum many body systems, quantum gravity and quantum foundations.
 
+![](img/pic4.png)
+
 ## Quantum Many Body Systems and Deep Learning
 
 **Carleo, Giuseppe**, and Matthias Troyer. "Solving the quantum many-body problem with artificial neural networks." Science 355, no. 6325 (2017): 602-606.
@@ -41,6 +43,8 @@ The other nice thing about this architecture is that it's inherently non-local. 
 Neural networks need to be trained, which poses a bit of a challenge in that we don't have any exact solutions to a many-body wavefunction against which to train the networks. Still, there are instances where the other two computational approaches described above work well, so they were used to provide reinforcement learning. The results were quite promising. For two different classes of problems, the neural network learned patterns related to the underlying physics. And, in each case, it was able to match or exceed the performance of existing computational methods.
 
 Carleo and Troyer are optimistic about this approach. More recent neural network architectures, like deep networks, are showing some impressive performance, and it should be possible to apply them to quantum mechanics. It should also be trivial to get this approach to handle quantum behavior beyond particle spins. The real test, though, will be to apply the neural network approach to problems where the other two methods come up short in some cases (though not all, or we'd have nothing to train it with). Figuring out whether it produces physically plausible results in these cases can be left as a challenge for the experimentalists.
+
+![](img/many_nodes)
 
 Torlai, Giacomo, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko, and Giuseppe Carleo. "Neural-network quantum state tomography." Nature Physics 14, no. 5 (2018): 447-450.
 https://www.nature.com/articles/s41567-018-0048-5
@@ -132,6 +136,8 @@ Rev. D 98, 046019 (2018)] where the deep neural network is identified with the e
 Hashimoto, Koji, Sotaro Sugishita, Akinori Tanaka, and Akio Tomiya. "Deep learning and the AdS/CFT correspondence." Physical Review D 98, no. 4 (2018): 046019.
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.046019
 
+![](img/hoshimoto.png)
+
 https://www.youtube.com/watch?v=vnMC-InCS1Y
 https://www.youtube.com/watch?v=3XQDGAbPyw0
 https://www.youtube.com/watch?v=StmIbDxnMwc
@@ -147,8 +153,8 @@ https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.026020
 Loll, R., G. Fabiano, D. Frattulillo, and F. Wagner. "Quantum gravity in 30 questions." arXiv preprint arXiv:2206.06762 (2022).
 https://arxiv.org/abs/2206.06762
 
-Smolin, Lee. Time reborn: From the crisis in physics to the future of the universe. HMH, 2013.
-	Theory from Quantum Hidden Variables to Shape Dynamics, Chapter 12: Quantum Mechanics and the Liberation of the Atom, Chapter 13: The Battle Between Relativity and the Quantum, Chapter 14: Time Reborn from Relativity
+Smolin, Lee. Time Reborn: From the crisis in physics to the future of the universe. HMH, 2013.
+	Theory from Quantum Hidden Variables to Shape Dynamics, Chapter 12: Quantum Mechanics and the Liberation of the Atom, Chapter 13: The Battle Between Relativity and the Quantum, Chapter 14: Time Reborn from Relativity. Outlines future mapping between GR<->ShapeDynamics and Holographic-Principle
 
 Mercati, Flavio. Shape dynamics: Relativity and relationalism. Oxford University Press, 2018.
 
@@ -161,6 +167,8 @@ Cramer, John G. "An overview of the transactional interpretation of quantum mech
 
 Cramer, John G. "The transactional interpretation of quantum mechanics." In AIP Conference Proceedings, vol. 573, no. 1, pp. 132-138. American Institute of Physics, 2001.
 
+![](img/handshake.png)
+
 Kastner, Ruth E. The Transactional Interpretation of Quantum Mechanics: A Relativistic Treatment. Cambridge University Press, 2022.
 
 Kastner, R. E. "The Relativistic Transactional Interpretation and Spacetime Emergence." arXiv preprint arXiv:2103.11245 (2021).
@@ -169,7 +177,9 @@ https://arxiv.org/abs/2103.11245
 Mason, Peter Stuart. "The transactional interpretation of quantum mechanics." Journal of Critical Realism 16, no. 1 (2017): 90-95.
 
 Cramer, John Gleason, and Carver Andress Mead. "Symmetry, transactions, and the mechanism of wave function collapse." Symmetry 12, no. 8 (2020): 1373.
-https://www.mdpi.com/2073-8994/12/8/1373
+https://www.mdpi.com/2073-8994/12/8/1373    
+
+https://www.npl.washington.edu/AV/altvw16.html
 
 Fearn, H. "A delayed choice quantum eraser explained by the transactional interpretation of quantum mechanics." Foundations of Physics 46 (2016): 44-69.
 
