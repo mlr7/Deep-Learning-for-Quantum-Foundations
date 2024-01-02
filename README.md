@@ -93,7 +93,14 @@ Logic:
 ## Cosmological Learning
 
 Alexander, Stephon, William J. Cunningham, Jaron Lanier, Lee Smolin, Stefan Stanojevic, Michael W. Toomey, and Dave Wecker. "The autodidactic universe." arXiv preprint arXiv:2104.03902 (2021).
-https://arxiv.org/abs/2104.03902
+https://arxiv.org/abs/2104.03902.     
+
+(When a model becomes sufficiently good at mirroring observable reality, it becomes natural to ask if it could be considered as if it were an aspect of reality, not just an approximation. A sense that models are substantial motivated the discovery of
+previously unsuspected phenomena, such as antimatter, which was predicted because
+of the available solutions to an equation. We are extending Wigner’s trust given to
+the ”unreasonable” success of theory. If neural networks can predict or rediscover
+the theories we know about, might nature not be as similar to the neural networks as
+to the theories?)   
 
 Azarian, Bobby. The case for why our Universe may be a giant neural network. https://bigthink.com/hard-science/the-universe-may-be-a-giant-neural-network-heres-why/
 
