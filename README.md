@@ -44,7 +44,7 @@ Neural networks need to be trained, which poses a bit of a challenge in that we 
 
 Carleo and Troyer are optimistic about this approach. More recent neural network architectures, like deep networks, are showing some impressive performance, and it should be possible to apply them to quantum mechanics. It should also be trivial to get this approach to handle quantum behavior beyond particle spins. The real test, though, will be to apply the neural network approach to problems where the other two methods come up short in some cases (though not all, or we'd have nothing to train it with). Figuring out whether it produces physically plausible results in these cases can be left as a challenge for the experimentalists.
 
-![](img/many_nodes)
+![](img/many_nodes.png)
 
 Torlai, Giacomo, Guglielmo Mazzola, Juan Carrasquilla, Matthias Troyer, Roger Melko, and Giuseppe Carleo. "Neural-network quantum state tomography." Nature Physics 14, no. 5 (2018): 447-450.
 https://www.nature.com/articles/s41567-018-0048-5
@@ -129,8 +129,7 @@ https://www.worldscientific.com/doi/abs/10.1142/S0218271817430209
 Hashimoto, Koji, Sotaro Sugishita, Akinori Tanaka, and Akio Tomiya. "Deep learning and holographic QCD." Physical Review D 98, no. 10 (2018): 106014.
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.106014
 
-Our deep learning (DL) architecture is
-based on the AdS/DL correspondence [K. Hashimoto, S. Sugishita, A. Tanaka, and A. Tomiya, Phys.
+Our deep learning (DL) architecture is based on the AdS/DL correspondence [K. Hashimoto, S. Sugishita, A. Tanaka, and A. Tomiya, Phys.
 Rev. D 98, 046019 (2018)] where the deep neural network is identified with the emergent bulk spacetime.
 
 Hashimoto, Koji, Sotaro Sugishita, Akinori Tanaka, and Akio Tomiya. "Deep learning and the AdS/CFT correspondence." Physical Review D 98, no. 4 (2018): 046019.
@@ -158,7 +157,7 @@ Smolin, Lee. Time Reborn: From the crisis in physics to the future of the univer
 
 Mercati, Flavio. Shape dynamics: Relativity and relationalism. Oxford University Press, 2018.
 
-Transactional Interpretation of Quantum 
+## Transactional Interpretation of Quantum Mechanics
 
 Cramer, John G. "The transactional interpretation of quantum mechanics." Reviews of Modern Physics 58, no. 3 (1986): 647.
 https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.647
