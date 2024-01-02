@@ -263,5 +263,7 @@ but also on the measurement setup (the detector settings). Though at first glanc
 the apparent **"retrocausality"** in these models has a historical **precedent in the absorber theory of 
 Wheeler and Feynman**.
 
+https://emergentranscendence.wordpress.com/
+
 Weinstein, S. "Neural Networks as" hidden" variable models for quantum systems. eprint." arXiv preprint arXiv:1807.03910 (2018).
 https://www.semanticscholar.org/paper/Neural-networks-as-%22hidden%22-variable-models-for-Weinstein/8a5a66c890c14a0253e1d257b50c1a959b8c8912
