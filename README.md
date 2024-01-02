@@ -109,6 +109,10 @@ Neuroscientist and author Bobby Azarian explores the idea that the Universe is a
 Vazza, Franco, and Alberto Feletti. "The quantitative comparison between the neuronal network and the cosmic web." Frontiers in Physics 8 (2020): 491.
 https://www.frontiersin.org/articles/10.3389/fphy.2020.525731/full?trk=public_post_comment-text
 
+All brain samples analysed in this work, as well as relevant samples of the simulated cosmic web 
+and the reconstructed network connectivity are publicly accessible at 
+this URL: https://cosmosimfrazza.myfreesites.net/cosmic-web-and-brain-network-datasets.     
+
 Buckareff, Andrei A. Pantheism. Cambridge University Press, 2022.
 
 SABINE HOSSENFELDER, Maybe the Universe Thinks. Hear Me Out, TIME, AUGUST 25, 2022
